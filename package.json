@@ -1,0 +1,32 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "twitt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sarah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10",
+    "node": "^8.3.0",
+    "socket.io": "^2.0.3",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah57/JS.git"
+  },
+  "keywords": [
+    "liloupass"
+  ],
+  "bugs": {
+    "url": "https://github.com/sarah57/JS/issues"
+  },
+  "homepage": "https://github.com/sarah57/JS#readme"
+}
